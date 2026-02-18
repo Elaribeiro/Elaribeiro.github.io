@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acessoria on Rafaela Ribeiro Jornalista</title>
+    <link>http://localhost:1313/tags/acessoria/</link>
+    <description>Recent content in Acessoria on Rafaela Ribeiro Jornalista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</managingEditor>
+    <webMaster>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</webMaster>
+    <copyright>© 2026 Rafaela Ribeiro</copyright>
+    <atom:link href="http://localhost:1313/tags/acessoria/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/</link>
+      <pubDate>Tue, 17 Feb 2026 15:27:24 -0300</pubDate>
+      <author>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</author>
+      <guid>http://localhost:1313/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

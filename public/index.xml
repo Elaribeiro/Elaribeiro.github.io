@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafaela Ribeiro Jornalista</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rafaela Ribeiro Jornalista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <managingEditor>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</managingEditor>
+    <webMaster>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</webMaster>
+    <copyright>© 2026 Rafaela Ribeiro</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 17:56:55 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PG é escolhida para receber caminhada para conscientização sobre a endometriose</title>
+      <link>http://localhost:1313/posts/external-post/</link>
+      <pubDate>Tue, 17 Feb 2026 17:56:55 -0300</pubDate>
+      <author>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</author>
+      <guid>http://localhost:1313/posts/external-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/external-post/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Tue, 17 Feb 2026 15:46:35 -0300</pubDate>
+      <author>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</author>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Feb 2026 15:26:15 -0300</pubDate>
+      <author>jornalistarafaelaribeiro@gmail.com (Rafaela Ribeiro Silvério)</author>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-first-post/feature-1.png" />
+    </item>
+    
+  </channel>
+</rss>
