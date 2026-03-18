@@ -16,35 +16,37 @@
   weight = 10
 
 [[main]]
-  name = "Parent"
+  name = "Cubatão"
+  parent = "Posts"
+  pageRef = "posts/cubatao"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
+  name = "InMagazine"
+  parent = "Posts"
+  pageRef = "posts/inmagazine"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
+  name = "Lorena R7"
+  parent = "Posts"
+  pageRef = "posts/lorena"
   weight = 20
 
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
-  weight = 10
-
-[[subnavigation]]
-  name = "My Awesome Category"
-  pre = "github"
-  pageRef = "categories/awesome"
-  weight = 20
+# [[subnavigation]]
+#   name = "An interesting topic"
+#   pageRef = "tags/interesting-topic"
+#   weight = 10
+#
+# [[subnavigation]]
+#   name = "My Awesome Category"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Fotos"
+  pageRef = "gallery"
   weight = 20
 
 [[main]]
@@ -58,12 +60,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-[[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
-
-[[footer]]
-  name = "Categories"
-  pageRef = "categories"
-  weight = 20
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+#
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20

@@ -8,11 +8,11 @@ title = "Rafaela Ribeiro Jornalista"
   displayName = "PT-BR"
   isoCode = "pt-br"
   rtl = false
-  dateFormat = "2 January 2006"
-  logo = "pfp.jpg"
-  secondaryLogo = "pfp.jpg"
+  dateFormat = "02/01/2006"
+  logo = "logo.png"
+  secondaryLogo = "logo.png"
   description = "Portfolio de jornalismo"
-  copyright = "© 2026 Rafaela Ribeiro"
+  copyright = "© { year } Rafaela Ribeiro"
 
 [params.author]
   name = "Rafaela Ribeiro Silvério"
@@ -20,7 +20,7 @@ title = "Rafaela Ribeiro Jornalista"
   image = "pfp.jpg"
   imageQuality = 96
   headline = "Jornalismo, redação web, SEO e assessoria de imprensa"
-  bio = "A little bit about you"
+  bio = "Sou jornalista, redatora web, social media e assessora de imprensa."
   links = [
     { email = "mailto:jornalistarafaelaribeiro@gmail.com" },
     { linkedin = "https://www.linkedin.com/in/rafaelaribeirosilv%C3%A9rio/" },
