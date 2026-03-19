@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elaribeiro.github.io/sitemap.xml
