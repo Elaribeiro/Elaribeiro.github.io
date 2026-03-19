@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Cubatão"
+  name = "Câmara de Cubatão"
   parent = "Posts"
   pageRef = "posts/cubatao"
   weight = 20
