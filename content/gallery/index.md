@@ -6,7 +6,7 @@ title = "Fotos"
 
 {{< gallery >}}
   <img src="gallery/ch002.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  {{< figure src="gallery/ch001.JPG" alt="alt descr" caption="Visita da Federação Chinesa ao Parque Tecnológico de Santos" figureClass="grid-w100 md:grid-w100 xl:grid-w100" >}}
+  {{< figure src="gallery/ch001.JPG" alt="alt descr" caption="A comitiva da empresa chinesa Hubei visita o Parque Tecnológico de Santos" figureClass="grid-w100 md:grid-w100 xl:grid-w100" >}}
   <img src="gallery/sdw001.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
   <img src="gallery/sdw002.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
   <img src="gallery/sdw003.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
