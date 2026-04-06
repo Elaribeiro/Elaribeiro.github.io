@@ -2,20 +2,88 @@
 showDate = false
 date = "2026-01-01"
 title = "Fotos"
+showTableOfContents = true
 +++
 
+### Start-up Day - Autoridade Portuária de Santos
 {{< gallery >}}
-  <img src="gallery/ch002.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  {{< figure src="gallery/ch001.JPG" alt="alt descr" caption="Comitiva da empresa chinesa Hubei visita o Parque Tecnológico de Santos." figureClass="grid-w100 md:grid-w100 xl:grid-w100" >}}
-  <img src="gallery/sdw001.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw002.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw003.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw004.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw005.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw006.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw007.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/sdw008.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/re001.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/re002.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/re003.JPG" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/01.jpeg" class="grid-w100" />
+  <img src="gallery/aps-startup-day/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/03.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/06.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/07.jpeg" class="grid-w100" />
+  <img src="gallery/aps-startup-day/08.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/09.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/aps-startup-day/10.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+{{< /gallery >}}
+
+### Visita ao Ateliê Cris Bernardes
+{{< gallery >}}
+  <img src="gallery/atelie/01.jpeg" class="grid-w100" />
+  <img src="gallery/atelie/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/atelie/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/atelie/03.jpeg" class="grid-w100" />
+  <img src="gallery/atelie/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/07.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/06.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/09.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/10.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/11.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/12.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/08.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/13.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/14.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/15.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/16.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/atelie/17.jpeg" class="grid-w100 " />
+  <img src="gallery/atelie/18.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/atelie/19.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+
+### Visita ao Museu do Café
+{{< gallery >}}
+  <img src="gallery/museu-do-cafe/05.jpeg" class="grid-w100" />
+  <img src="gallery/museu-do-cafe/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/museu-do-cafe/01.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/museu-do-cafe/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/museu-do-cafe/03.jpeg" class="grid-w100 " />
+{{< /gallery >}}
+
+### Visita da empresa Hubei ao Parque Tecnológico de Santos
+{{< gallery >}}
+  <img src="gallery/hubei/01.jpeg" class="grid-w100" />
+  <img src="gallery/hubei/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/hubei/03.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/hubei/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/hubei/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+
+### Santos Digital Week
+{{< gallery >}}
+  <img src="gallery/sdw/01.jpeg" class="grid-w100 " />
+  <img src="gallery/sdw/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/03.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/06.jpeg" class="grid-w100 " />
+  <img src="gallery/sdw/07.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/08.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
+  <img src="gallery/sdw/10.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/sdw/11.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/sdw/12.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/sdw/13.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/sdw/14.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+{{< /gallery >}}
+
+### Reunião no Parque Tecnológico de Santos
+{{< gallery >}}
+  <img src="gallery/reuniao-pts/01.jpeg" class="grid-w100 " />
+  <img src="gallery/reuniao-pts/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/reuniao-pts/03.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/reuniao-pts/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/reuniao-pts/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/reuniao-pts/06.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="gallery/reuniao-pts/07.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
 {{< /gallery >}}
