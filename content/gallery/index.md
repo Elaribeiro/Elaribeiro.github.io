@@ -19,7 +19,7 @@ showTableOfContents = true
   <img src="https://miro.medium.com/v2/1*tpTnYAJP8Pz23cjhh7nHwQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
 {{< /gallery >}}
 
-### Visita ao Ateliê Cris Bernardes
+### Fotos Ateliê Cris Bernardes - Fotojornalismo
 {{< gallery >}}
   <img src="gallery/atelie/01.jpeg" class="grid-w100" />
   <img src="gallery/atelie/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
@@ -42,7 +42,7 @@ showTableOfContents = true
   <img src="gallery/atelie/19.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-### Visita ao Museu do Café
+### Fotos Centro Histórico de Santos - Fotojornalismo
 {{< gallery >}}
   <img src="gallery/museu-do-cafe/05.jpeg" class="grid-w100" />
   <img src="gallery/museu-do-cafe/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
@@ -51,7 +51,7 @@ showTableOfContents = true
   <img src="gallery/museu-do-cafe/03.jpeg" class="grid-w100 " />
 {{< /gallery >}}
 
-### Visita da empresa Hubei ao Parque Tecnológico de Santos
+### Visita técnica da comitiva chinesa de Hubei ao Parque Tecnológico de Santos
 {{< gallery >}}
   <img src="gallery/hubei/01.jpeg" class="grid-w100" />
   <img src="gallery/hubei/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w50" />
