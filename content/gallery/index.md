@@ -7,16 +7,16 @@ showTableOfContents = true
 
 ### Start-up Day - Autoridade Portuária de Santos
 {{< gallery >}}
-  <img src="gallery/aps-startup-day/01.jpeg" class="grid-w100" />
-  <img src="gallery/aps-startup-day/02.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/03.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/04.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/05.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/06.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/07.jpeg" class="grid-w100" />
-  <img src="gallery/aps-startup-day/08.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/09.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="gallery/aps-startup-day/10.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*hgWPz7hX3_Yb96-CE7O89w.jpeg" class="grid-w100" />
+  <img src="https://miro.medium.com/v2/1*EXOMUslGyHLsObyxhaxKPQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*hjYMFG_j8RTAAVBPdxSDSA.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*i6244ESqG0eZ3A-mYBSWjg.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*-ruIfT89GShz_NY__56jZQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*krNdUDJJycHnvzOpIIHw1w.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*XGAL8DgvYGxxrGbHNOKJQg.jpeg" class="grid-w100" />
+  <img src="https://miro.medium.com/v2/1*a5isfGj23--K-jDNNzTxjQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*pe3Ukyw_oiXk9txNh_HYNQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="https://miro.medium.com/v2/1*tpTnYAJP8Pz23cjhh7nHwQ.jpeg" class="grid-w100 md:grid-w50 xl:grid-w33" />
 {{< /gallery >}}
 
 ### Visita ao Ateliê Cris Bernardes
