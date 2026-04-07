@@ -22,16 +22,22 @@
   weight = 20
 
 [[main]]
+  name = "Prefeitura de Praia Grande"
+  parent = "Posts"
+  pageRef = "posts/pg"
+  weight = 21
+
+[[main]]
   name = "InMagazine"
   parent = "Posts"
   pageRef = "posts/inmagazine"
-  weight = 20
+  weight = 22
 
 [[main]]
   name = "Lorena R7"
   parent = "Posts"
   pageRef = "posts/lorena"
-  weight = 20
+  weight = 23
 
 # [[subnavigation]]
 #   name = "An interesting topic"
